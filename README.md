@@ -48,7 +48,8 @@ Menambahkan variable pada program.
     ?>
 ```
 
-![image](https://github.com/user-attachments/assets/81171e7e-800e-47f5-b58a-c922ff158438)
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/ad496334-8b19-4acd-82d1-8bc25684d615">
+
 
 ## Predefine Variable $_GET
 ```php
