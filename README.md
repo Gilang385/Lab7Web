@@ -32,7 +32,8 @@ php
 ``` 
 - Akses hasilnya di http://localhost/lab7_php_dasar/php_dasar.php.
 
-![image](https://github.com/user-attachments/assets/f18fa178-3ea2-4343-b16e-da292b86def5)
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/978e53f2-1a11-41ae-9a73-6f780c251fe4">
+
 
 ## Variable PHP
 Menambahkan variable pada program.
