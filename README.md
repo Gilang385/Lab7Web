@@ -1,5 +1,6 @@
 # Lab7Web
 Nama : Gilang Prayoga
+
 Nim  : 312310232
 ## Persiapan Lingkungan Praktikum:
 - Install XAMPP sebagai server lokal untuk menjalankan PHP dan Apache. Unduh dari situs XAMPP dan ekstrak di lokasi yang Anda pilih (misalnya, d:\xampp).
